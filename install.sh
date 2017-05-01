@@ -13,8 +13,8 @@ git clone https://github.com/B00merang-Project/macOS-Sierra.git
 sudo mkdir ~/.themes
 sudo mkdir ~/.fonts
 
-sudo cp ~/MacBuntu-OS/macOS-fonts ~/.fonts
-sudo cp ~/MacBuntu-OS/macOS-Sierra ~/.themes
+sudo cp -r ~/MacBuntu-OS/macOS-fonts ~/.fonts
+sudo cp -r ~/MacBuntu-OS/macOS-Sierra ~/.themes
 
 sudo apt-get install macbuntu-os-icons-lts-v7 -y
 sudo apt-get install slingscold -y
