@@ -60,5 +60,7 @@ Lets add some finishing touches by changing up the ```Ubuntu Desktop``` text on 
 1. Open up ```Terminal``` and type in the following:
   * ```cd && wget -O Mac.po http://drive.noobslab.com/data/Mac/change-name-on-panel/mac.po```
   * and then ```cd /usr/share/locale/en/LC_MESSAGES; sudo msgfmt -o unity.mo ~/Mac.po;rm ~/Mac.po;cd```
+After you're done with all of this, reboot your pc and enjoy MacBuntu OS!
 
-After you're done with all of this, reboot your pc and enjoy MacBuntu OA!!
+### Something else
+1. [you can find something else there](https://m.baidu.com/from=844b/bd_page_type=1/ssid=4957314d79466f72657665726c6f7665931c/uid=0/pu=usm%401%2Csz%401320_2001%2Cta%40iphone_1_10.2_3_602/baiduid=95A1C7C4EFFBE6D29293E94498ACC4A4/w=0_10_/t=iphone/l=3/tc?ref=www_iphone&lid=6744692905043528568&order=1&fm=alop&tj=www_normal_1_0_10_title&vit=osres&m=8&srd=1&cltj=cloud_title&asres=1&nt=wnor&title=Ubuntu16.04%E4%B8%8B%E5%AE%89%E8%A3%85MacBuntu16.04TP%E5%8F%98%E8%BA%ABMacOSX...&dict=20&w_qd=IlPT2AEptyoA_yisHUCfDisgqa&sec=20693&di=ae6be5a81fca5a8e&bdenc=1&tch=124.0.95.200.0.0&nsrc=IlPT2AEptyoA_yixCFOxXnANedT62v3IEQGG_yJR0CumpEm9xP4kHREsRFv7Lmq3ZpPPdj0PtwIFxmGdWWUp7Bl4qbIwdzW&eqid=5d99f67654378c00100000005906ccf2&wd=&clk_info=%7B%22srcid%22%3A%221599%22%2C%22tplname%22%3A%22www_normal%22%2C%22t%22%3A1493617914276%2C%22xpath%22%3A%22div-a-h3%22%7D)
