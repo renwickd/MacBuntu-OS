@@ -61,4 +61,4 @@ Lets add some finishing touches by changing up the ```Ubuntu Desktop``` text on 
   * ```cd && wget -O Mac.po http://drive.noobslab.com/data/Mac/change-name-on-panel/mac.po```
   * and then ```cd /usr/share/locale/en/LC_MESSAGES; sudo msgfmt -o unity.mo ~/Mac.po;rm ~/Mac.po;cd```
 
-After you're done with all of this, reboot your pc and enjoy MacBuntu OS!
+After you're done with all of this, reboot your pc and enjoy MacBuntu OA!!
